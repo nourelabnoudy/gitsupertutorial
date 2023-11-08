@@ -1,2 +1,2 @@
 config.console.log('config.js');
-config.console.log('version1');
+config.console.log('version2');
